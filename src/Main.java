@@ -1,7 +1,4 @@
-package com.company;
-
-
-import com.company.pokemons.*;
+import pokemons.*;
 import ru.ifmo.se.pokemon.Battle;
 
 public class Main {

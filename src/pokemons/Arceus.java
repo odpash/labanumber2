@@ -1,9 +1,9 @@
-package com.company.pokemons;
+package pokemons;
 
-import com.company.moves.ChargeBeam;
-import com.company.moves.Growl;
-import com.company.moves.FeintAttack;
-import com.company.moves.FakeTears;
+import moves.ChargeBeam;
+import moves.Growl;
+import moves.FeintAttack;
+import moves.FakeTears;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

@@ -1,6 +1,6 @@
-package com.company.pokemons;
+package pokemons;
 
-import com.company.moves.*;
+import moves.*;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

@@ -1,4 +1,4 @@
-package com.company.moves;
+package moves;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Stat;
